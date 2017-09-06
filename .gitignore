@@ -2,3 +2,5 @@
 /db_repository/
 *.db
 .idea/
+__pycache__/*
+app/__pycache__/*
